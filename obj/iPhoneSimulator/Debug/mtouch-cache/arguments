@@ -1,0 +1,36 @@
+# Version: 9.4.1.25 (cycle6-xi: 962a050)
+# [first argument, ignore] # /Users/mlk93/Projects/TipCalculator/TipCalculator/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/9.4.1.25/bin/mtouch \
+	--cache \
+	/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--sim \
+	/Users/mlk93/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.app \
+	--executable \
+	TipCalculator \
+	--fastdev \
+	--debug \
+	--nolink \
+	--sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--sdk \
+	9.2 \
+	--targetver \
+	9.2 \
+	--new-refcount \
+	--abi=i386 \
+	--symbollist \
+	/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
+	--dsym=no \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Xamarin.iOS.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
+	--target-framework \
+	"Xamarin.iOS,v1.0" \
+	/Users/mlk93/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug//TipCalculator.exe \

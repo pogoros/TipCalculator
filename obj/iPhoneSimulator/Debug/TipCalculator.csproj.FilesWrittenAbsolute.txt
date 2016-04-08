@@ -1,0 +1,15 @@
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/optimized/
+/Users/mlk93/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.exe.mdb
+/Users/mlk93/Projects/TipCalculator/TipCalculator/bin/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.exe
+/Users/mlk93/Projects/TipCalculator/TipCalculator/obj/iPhoneSimulator/Debug/TipCalculator.exe.mdb
